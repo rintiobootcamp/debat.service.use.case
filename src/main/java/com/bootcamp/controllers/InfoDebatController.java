@@ -25,7 +25,7 @@ public class InfoDebatController {
 
     /**
      * @param entityType
-     * @param enityId
+     * @param entityId
      * @return
      * @throws IOException
      */
